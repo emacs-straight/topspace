@@ -1,0 +1,12 @@
+*.~undo-tree~
+.projectile
+*.elc
+.cask
+Eldev
+.eldev
+topspace.log
+\#*\#
+coverage/
+cask-run
+test/director/
+TODO
